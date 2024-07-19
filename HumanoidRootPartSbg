@@ -1,0 +1,2 @@
+-- Place this script in a LocalScript to run it
+game.Players.LocalPlayer.Character:BreakJoints()
